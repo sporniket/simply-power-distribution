@@ -37,9 +37,9 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ### From sources
 
-To get the latest available work, one must clone the git repository, build and install the package.
+To get the latest available work, one must clone the git repository and its submodules.
 
-	git clone https://github.com/sporniket/simply-power-distribution.git
+	git clone --recurse-submodules https://github.com/sporniket/simply-power-distribution.git
 
 Then, open the project with Kicad 7.
 
