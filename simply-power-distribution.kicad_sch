@@ -7,7 +7,7 @@
   (title_block
     (title "Simply power distribution")
     (date "2024-01-21")
-    (rev "v0.0.1-RC1")
+    (rev "v1.0.0-RC1")
     (company "Sporniket")
     (comment 4 "Original repository : https://github.com/sporniket/simply-power-distribution")
   )
